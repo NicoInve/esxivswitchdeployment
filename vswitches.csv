@@ -1,0 +1,3 @@
+VSwitch,MTU,NICs
+vSwitch0,1500,vmnic0,vmnic1
+vSwitch1,9000,
